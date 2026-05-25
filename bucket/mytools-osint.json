@@ -1,12 +1,12 @@
 {
-  "version": "0.3.1",
-  "description": "Bluetm OSINT CLI — 32 modules · red-team profiles · TUI · HTML reports · web dashboard · free APIs",
+  "version": "4.0.0",
+  "description": "Bluetm OSINT CLI v4.0 — entity graph + auto-pivot + SIEM exporters + AI explain + plugin loader · 32 modules · free APIs",
   "homepage": "https://github.com/Azizbek16l/mytools-osint",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Azizbek16l/mytools-osint/releases/download/v0.3.1/osint-windows-x64.exe#/osint.exe",
-      "hash": "a39bc7ba22b71d9af270d0df638f6db2a80483e51aa90e75c4844da366d22f87"
+      "url": "https://github.com/Azizbek16l/mytools-osint/releases/download/v4.0.0/osint-windows-x64.exe#/osint.exe",
+      "hash": "e55123e29ea722a03304406f356291cdf4806d471f5b3dd7ecf0a4b64438f81f"
     }
   },
   "bin": "osint.exe",
