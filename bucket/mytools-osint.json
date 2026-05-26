@@ -1,12 +1,12 @@
 {
-  "version": "4.1.1",
-  "description": "Bluetm OSINT CLI v4.1.1 — entity graph + auto-pivot + active recon (route_discover, port_scan, WAF/CMS/GraphQL fingerprinting) + AI explain · 39 modules · free APIs",
+  "version": "4.2.0",
+  "description": "Bluetm OSINT CLI v4.2 — single-fire smart shell + 7 themes + 45 modules (favicon hash, wayback, certspotter, RIPEstat, HackerTarget, subdomain takeover) · free APIs only",
   "homepage": "https://github.com/Azizbek16l/mytools-osint",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Azizbek16l/mytools-osint/releases/download/v4.1.1/osint-windows-x64.exe#/osint.exe",
-      "hash": "904de4c53a40bd9c110d125fbcc8d61080e0623ca2db589eb52c4da6bd5fa88f"
+      "url": "https://github.com/Azizbek16l/mytools-osint/releases/download/v4.2.0/osint-windows-x64.exe#/osint.exe",
+      "hash": "47d1eef37402050ec9aef0e69799790c9735b4de37348f7d6fe444044929180b"
     }
   },
   "bin": "osint.exe",
