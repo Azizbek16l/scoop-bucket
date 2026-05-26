@@ -1,12 +1,12 @@
 {
-  "version": "4.2.0",
+  "version": "4.2.1",
   "description": "Bluetm OSINT CLI v4.2 — single-fire smart shell + 7 themes + 45 modules (favicon hash, wayback, certspotter, RIPEstat, HackerTarget, subdomain takeover) · free APIs only",
   "homepage": "https://github.com/Azizbek16l/mytools-osint",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Azizbek16l/mytools-osint/releases/download/v4.2.0/osint-windows-x64.exe#/osint.exe",
-      "hash": "47d1eef37402050ec9aef0e69799790c9735b4de37348f7d6fe444044929180b"
+      "url": "https://github.com/Azizbek16l/mytools-osint/releases/download/v4.2.1/osint-windows-x64.exe#/osint.exe",
+      "hash": "a8ec199d28494137db6141668d774ba9ef27777ca6e027577a6876afb2967b3b"
     }
   },
   "bin": "osint.exe",
