@@ -1,12 +1,12 @@
 {
-  "version": "4.0.0",
-  "description": "Bluetm OSINT CLI v4.0 — entity graph + auto-pivot + SIEM exporters + AI explain + plugin loader · 32 modules · free APIs",
+  "version": "4.1.0",
+  "description": "Bluetm OSINT CLI v4.1 — entity graph + auto-pivot + active recon (route_discover, port_scan, WAF/CMS/GraphQL fingerprinting) + AI explain · 39 modules · free APIs",
   "homepage": "https://github.com/Azizbek16l/mytools-osint",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/Azizbek16l/mytools-osint/releases/download/v4.0.0/osint-windows-x64.exe#/osint.exe",
-      "hash": "e55123e29ea722a03304406f356291cdf4806d471f5b3dd7ecf0a4b64438f81f"
+      "url": "https://github.com/Azizbek16l/mytools-osint/releases/download/v4.1.0/osint-windows-x64.exe#/osint.exe",
+      "hash": "cfb3bf8da6c9800fa34fbddd59b868a06334804c938d390f08cd6f7d0a986414"
     }
   },
   "bin": "osint.exe",
